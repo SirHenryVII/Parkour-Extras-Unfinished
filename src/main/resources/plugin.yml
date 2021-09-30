@@ -1,0 +1,9 @@
+name: ParkourExtras
+version: ${project.version}
+main: me.sirhenry.parkourextras.ParkourExtras
+api-version: 1.17
+commands:
+  GiveBlock:
+    description: Gives Effect Blocks
+  Parkour:
+    description: Allows You To Create Parkour Courses
